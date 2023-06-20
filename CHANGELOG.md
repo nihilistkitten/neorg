@@ -1,5 +1,12 @@
 # Changelog
 
+## [5.0.1](https://github.com/nvim-neorg/neorg/compare/v5.0.0...v5.0.1) (2023-06-20)
+
+
+### Bug Fixes
+
+* **calendar:** give calendar enough space to render ([#950](https://github.com/nvim-neorg/neorg/issues/950)) ([6fece15](https://github.com/nvim-neorg/neorg/commit/6fece1546d051a5f2a2d932d5978beec1ef920ab))
+
 ## [5.0.0](https://github.com/nvim-neorg/neorg/compare/v4.6.0...v5.0.0) (2023-06-07)
 
 
